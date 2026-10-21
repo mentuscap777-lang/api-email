@@ -1,4 +1,4 @@
-package com.sebastian.email_api.config;
+package com.sebastian.email_api.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
